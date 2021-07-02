@@ -1,0 +1,9 @@
+$blue: rgba(1, 61, 119, 0.9);
+$blue-hover: scale-color($blue, $lightness: -50%);
+$orange: rgba(238, 162, 37, 0.9);
+$orange-hover: scale-color($orange, $lightness: -50%);
+$green: rgba(17, 121, 59, 0.9);
+$green-hover: scale-color($green, $lightness: -50%);
+$blue-light: rgba(1, 61, 119, 0.5);
+$orange-light: rgba(238, 162, 37, 0.5);
+$green-light: rgba(17, 121, 59, 0.5);
